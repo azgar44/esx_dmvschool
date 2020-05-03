@@ -36,7 +36,7 @@ var tableauQuestion = [
 	},
 
 	{
-		question: "What blood alcohol level is classified as driving while intoxicated?",
+		question: "Quel taux d'alcoolémie est considéré comme une conduite en état d'ébriété ?",
 		propositionA: "0.05%",
 		propositionB: "0.18%",
 		propositionC: "0.08%",
